@@ -1,0 +1,19 @@
+.Select-button { padding-top: 10px;}
+.navbar-default .navbar-nav > li > a {
+    color: #0a0a0a;}
+.navbar-default .navbar-brand {
+color: #060606;}
+.navbar-nav { padding-left: 60px;}
+.top { float: right; background-color: black; margin: 20px; padding: 1px; margin-left: 150px; border-radius: 0px; color: rgb(145, 143, 143);}
+.cap-content { background-color: black; text-align: center;}
+.cap-content p { color: white;}
+.col-md-3 h3 { text-align: center;}
+ .col-md-3 hr {  
+    width: 10%;  
+    height: 2px; 
+    background-color: rgb(247, 222, 6); 
+    border: none;}
+    .thumbnail { border: none;}
+.size {border: 1px solid gray; border-radius: 100%; background-color: gray; height: 7vh; text-align: center; padding-top: 15px; }
+.star { padding: 2px;}
+.prize { color: gray;}
