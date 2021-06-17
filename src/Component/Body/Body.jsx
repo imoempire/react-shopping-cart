@@ -15,18 +15,11 @@ import image13 from '../../images 2/Untitled-3.png';
 import image14 from '../../images 2/Untitled-7.png';
 import image15 from '../../images 2/Untitled-9.png';
 
-
-
-
-
-
-
-
 const Body = () => {
     return (
         <div className="container-fluid">
         <div className="row">
-          <div className="col-md-2">
+          <div className="col-md-2" style={{color: 'white'}}>
             <div className="row">
               <div className="col-md-3 size">XS</div>
               <div className="col-md-3 size">S</div>
