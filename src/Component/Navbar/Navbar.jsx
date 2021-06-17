@@ -13,7 +13,7 @@ const Navbar = () => {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <a className="navbar-brand" href="#" style={{ color: 'white', backgroundColor:'black', borderRadius: '8px',}}>Sizes</a> <br />
+            <a className="navbar-brand" href="#" style={{ color: 'Yellow', backgroundColor:'black', borderRadius: '8px',}}>Sizes</a> <br />
           </div>
           
           {/* <!-- Collect the nav links, forms, and other content for toggling --> */}
@@ -22,7 +22,7 @@ const Navbar = () => {
               <li><a href="#">16 Product(s) found </a></li>
             </ul>
             <ul className="nav navbar-nav navbar-right">
-              <li><a href="#" style={{backgroundColor:'green', borderRadius:'10px',}}>Order by</a>
+              <li><a href="#" style={{backgroundColor:'Black', color:'yellow', borderRadius:'10px',}}>Order by</a>
               </li>
               {/* <!-- Single button --> */}
               <div className="btn-group Select-button">
