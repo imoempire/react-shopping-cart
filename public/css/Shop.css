@@ -1,3 +1,4 @@
+body { background-color: #0a0a0a; }
 .Select-button { padding-top: 10px;}
 .navbar-default .navbar-nav > li > a {
     color: #0a0a0a;}
@@ -17,3 +18,5 @@ color: #060606;}
 .size {border: 1px solid gray; border-radius: 100%; background-color: gray; height: 7vh; text-align: center; padding-top: 15px; }
 .star { padding: 2px;}
 .prize { color: gray;}
+big { color: grey; }
+.center{ text-align: center;}
