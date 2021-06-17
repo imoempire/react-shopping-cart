@@ -5,9 +5,9 @@ body { background-color: #0a0a0a; }
 .navbar-default .navbar-brand {
 color: #060606;}
 .navbar-nav { padding-left: 60px;}
-.top { float: right; background-color: black; margin: 20px; padding: 1px; margin-left: 150px; border-radius: 0px; color: rgb(145, 143, 143);}
+.top { float: right; background-color: black; margin: 20px; padding: 1px; margin-left: 150px; border-radius: 0px; color: yellow;}
 .cap-content { background-color: black; text-align: center;}
-.cap-content p { color: white;}
+.cap-content p { color: black;}
 .col-md-3 h3 { text-align: center;}
  .col-md-3 hr {  
     width: 10%;  
@@ -20,3 +20,4 @@ color: #060606;}
 .prize { color: gray;}
 big { color: grey; }
 .center{ text-align: center;}
+.add{ background-color: yellow;}

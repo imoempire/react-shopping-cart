@@ -49,7 +49,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
                 
@@ -65,7 +65,7 @@ const Body = () => {
                     <small className="prize">or $ 10x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -80,7 +80,7 @@ const Body = () => {
                     <small className="prize">or $ 15x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -95,7 +95,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -115,7 +115,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
     
                   </div>
     
@@ -132,7 +132,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -147,7 +147,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -180,7 +180,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
     
                 </div>
@@ -196,7 +196,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -211,7 +211,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -226,7 +226,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -244,7 +244,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
     
                   </div>
     
@@ -261,7 +261,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -276,7 +276,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
@@ -291,7 +291,7 @@ const Body = () => {
                     <small className="prize">or $ 9x1.21</small>
                   </p>
                   <div className="caption cap-content">
-                    <p>Add to Cart</p>
+                    <p className="add">Add to Cart</p>
                   </div>
                 </div>
               </div>
